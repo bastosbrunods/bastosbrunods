@@ -1,11 +1,11 @@
 # Olá, eu sou o Bruno 👋
 
-🎓 Graduando em Análise e Desenvolvimento de Sistemas
+🎓 Graduando em Análise e Desenvolvimento de Sistemas  
 🚀 Entusiasta em Desenvolvimento Backend (PHP/Laravel e Symfony)
 
 ## 🚀 Tecnologias
-- Linguagens: PHP, Java e C#
-- Frameworks: Laravel e .NET
+- Linguagens: PHP (HTML, CSS e JavaScript)
+- Frameworks: Laravel e Symfony
 - Ferramentas: Git, e VSCode
 
 ## 📊 Estatísticas
