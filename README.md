@@ -1,9 +1,7 @@
 # Olá, eu sou o Bruno 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** / Ciência Política  
-🌐 Interessado em Diplomacia, busco compreender como a tecnologia pode transformar sociedades  
-💡 Busco unir conhecimento técnico com visão crítica sobre inovação, governança e impacto social  
-🚀 Em constante aprendizado, com foco em construir pontes entre tecnologia e sociedade.
+🎓 Graduando em Análise e Desenvolvimento de Sistemas
+🚀 Entusiasta em Desenvolvimento Backend (PHP/Laravel e Symfony)
 
 ## 🚀 Tecnologias
 - Linguagens: PHP, Java e C#
