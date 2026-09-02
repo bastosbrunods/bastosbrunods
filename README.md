@@ -11,6 +11,13 @@
 [![Laravel](https://shields.io)](https://laravel.com)
 ![Symfony](https://shields.io)
 
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![PHP](https://shields.io)
+![JavaScript](https://shields.io)
+![Laravel](https://shields.io)
+
+
 ## 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bastosbrunods&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bastosbrunods&layout=compact&theme=dracula)
