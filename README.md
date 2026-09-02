@@ -10,6 +10,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 [![Laravel](https://shields.io)](https://laravel.com)
 ![Symfony](https://shields.io)
+![Laravel](https://badgen.net)
+
 
 
 ## 📊 Estatísticas
