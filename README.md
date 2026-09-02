@@ -9,6 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony&logoColor=white)
 
 ## 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bastosbrunods&show_icons=true&theme=dracula)
